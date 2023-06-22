@@ -26,6 +26,5 @@ button.addEventListener("click", async () => {
         }
         )
     // window.location.href ="https://www.google.com"
-    alert("Requisição feita com sucesso")
 
 })
